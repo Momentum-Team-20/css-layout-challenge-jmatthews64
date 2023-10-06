@@ -66,6 +66,18 @@
     border-bottom: 5px solid blue;
 }
 
+.noBorderWhite {
+    border-bottom: 5px solid white;
+}
+
+.noBorderRed {
+    border-bottom: 5px solid red;
+}
+
+.noBorderYellow {
+    border-bottom: 5px solid yellow;
+}
+
 .rowWrap {
     display: flex;
     height: 10%;
